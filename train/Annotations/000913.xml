@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000913.jpg</filename>
+	<path>C:\Users\Admin\Desktop\xia\DAGM2007_VOC\train\JPEGImages\000913.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Class10</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>328</xmin>
+			<ymin>369</ymin>
+			<xmax>501</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
