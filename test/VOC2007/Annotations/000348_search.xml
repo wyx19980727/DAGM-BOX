@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>000348.jpg</filename>
+	<path>C:\Users\Admin\Desktop\xia\DAGM2007_VOC\test\JPEGImages\000348.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Class5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>155</ymin>
+			<xmax>409</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>
